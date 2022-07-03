@@ -8,6 +8,6 @@
 - :speech_balloon: I regard myself as an **self-taught and enthusiastic** person. I'm always expanding my knowledge to gain new skills and expertise.
 - 🔭 I’m currently working on _social media design_ and _digital content creation_ for entrepreneurs and local businesses. 
 - :books: I’m currently learning _JavaScript, HTML, CSS, NodeJS, MySQL, UX and UI design_.
-- :sun_with_face: In my free time I usually play online games. I also love spending quality time with my family and going out with my partner and friends to taste some good brunch.
-- :musical_note: Fun fact: I work better with music. I'm a big Post Malone fan.
+- :sun_with_face: I love spending quality time with my family and going out with my partner and friends to taste some good brunch. In my free time I also like to play online games. 
+- :musical_note: I work better with music. I'm a big Post Malone fan.
 - 📫 luciagarciadona@gmail.com
